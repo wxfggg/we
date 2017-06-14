@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yunlliinfo</string>
+    <string name="app_title">云丽信息上传系统</string>
+    <string name="app_log">登录</string>
+    <string name="text_phone">手机号</string>
+    <string name="text_code">验证码</string>
+    <string name="btn_code">获取验证码</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_exit">退出</string>
+    <string name="btn_upload">已上传</string>
+</resources>
